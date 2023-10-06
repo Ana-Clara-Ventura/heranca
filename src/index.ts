@@ -1,6 +1,6 @@
-import { Assalariado} from "./model/Assalariado";
+import { Assalariado } from "./model/Assalariado";
 
-const a1 = new Assalariado(`Miroslav Klose`, `201420142014`,1500);
+const a1 = new Assalariado(`Miroslav Klose`, `201420142014`, 1500);
 
 a1.setNome("Ana Clara");
 a1.setCpf("102912932819");
